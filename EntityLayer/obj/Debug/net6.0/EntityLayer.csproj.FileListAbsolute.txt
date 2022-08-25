@@ -1,0 +1,12 @@
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\googl\source\repos\blogWebProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

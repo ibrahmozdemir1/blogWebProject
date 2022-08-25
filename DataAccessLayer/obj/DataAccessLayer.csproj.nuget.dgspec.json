@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\googl\\source\\repos\\BlogWebSite\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\googl\\source\\repos\\blogWebProject\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\googl\\source\\repos\\BlogWebSite\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\googl\\source\\repos\\blogWebProject\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\googl\\source\\repos\\blogWebProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\googl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\googl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,6 +65,61 @@
               "version": "[6.0.8, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\googl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\googl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

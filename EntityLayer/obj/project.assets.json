@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\googl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\googl\\AppData\\Roaming\\NuGet\\NuGet.Config",

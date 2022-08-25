@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEkvsNbTKwngxMNqRbN2tlfyrryDuAgCvIzili8Ihx/LOgNK1DvKwADgvY+lgTvnWx2RDCtX3s45s/vVoMnuUQ==",
+  "dgSpecHash": "zQBdp0bK5DZTQKqqhyXJBB7XeSsDL7hLO1XjWWjef16ox6XgOV9Aorhef2r7v0pai/ke+qOYtA3J9uxa8yTs1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\googl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\googl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

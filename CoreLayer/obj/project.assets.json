@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\googl\\source\\repos\\blogWebProject\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\googl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\googl\\AppData\\Roaming\\NuGet\\NuGet.Config",

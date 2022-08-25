@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HXw0FjFE33n3i2eCVev7BQvEwCFJ+FQWOp4FDSmU8RQpr30k2hdosE1nkMVdRNmCOac8GJx81qVAUhxFx5OdMw==",
+  "dgSpecHash": "U5sAqxr+y29ubg1GG/CK6MIDdXkCuL/WW7Mb91TLaf45Rhj6zwSkXKinkL7PuU18TlABFWqfv+kj9uoZJBbccw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\googl\\source\\repos\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\googl\\source\\repos\\blogWebProject\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
