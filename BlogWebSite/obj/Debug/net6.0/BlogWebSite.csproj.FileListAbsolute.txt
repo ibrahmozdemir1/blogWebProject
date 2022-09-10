@@ -504,3 +504,7 @@ C:\Users\googl\source\repos\blogWebProject\BlogWebSite\obj\Debug\net6.0\BlogWebS
 C:\Users\googl\source\repos\blogWebProject\BlogWebSite\obj\Debug\net6.0\BlogWebSite.genruntimeconfig.cache
 C:\Users\googl\source\repos\blogWebProject\BlogWebSite\obj\Debug\net6.0\ref\BlogWebSite.dll
 C:\Users\googl\source\repos\blogWebProject\BlogWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\googl\source\repos\blogWebProject\BlogWebSite\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\googl\source\repos\blogWebProject\BlogWebSite\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\googl\source\repos\blogWebProject\BlogWebSite\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\googl\source\repos\blogWebProject\BlogWebSite\obj\Debug\net6.0\BlogWebSite.MvcApplicationPartsAssemblyInfo.cs
